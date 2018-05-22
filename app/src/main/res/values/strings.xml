@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lists</string>
+    <string-array name="persons">
+        <item>Mohammed Salah</item>
+        <item>Alex Lacazette</item>
+        <item>Henri Mkhitaryan</item>
+        <item>Mesut Ozil</item>
+        <item>Granit Xhaka</item>
+        <item>Shkodran Mustafi</item>
+        <item>Wilshere</item>
+        <item>Neymar Jnr</item>
+        <item>Kylian Mbappe</item>
+        <item>Nacho Monreal</item>
+        <item>Bellerin</item>
+        <item>Thierry Henry</item>
+        <item>wenger</item>
+        <item>joseph</item>
+        <item>sido</item>
+
+    </string-array>
+</resources>
